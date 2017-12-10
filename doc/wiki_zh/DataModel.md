@@ -10,7 +10,7 @@ dataModel.buildDataModel();
 ```
 
 ## 1. Convertor
-Convertor 读取的数据集文件夹路径通过dfs.data.dir配置项读取,数据集名称通过 data.input.path指定. 之后根据数据类型配置项读取文件夹下所有数据, 并以SparseTensor形式保存. data.column.path 用于指定数据集每一列的含义.data.convertor.binarize.threshold为而值化时所采用的阈值, 即当数值大于阈值时为1, 小于阈值时为0. 当阈值小于0时, 默认不进行二值化处理.
+Convertor 读取的数据集文件夹路径通过dfs.data.dir配置项读取,数据集名称通过 data.input.path指定. 之后根据数据类型配置项读取文件夹下所有数据, 并以SparseTensor形式保存. data.column.path 用于指定数据集每一列的含义.data.convertor.binarize.threshold为二值化时所采用的阈值, 即当数值大于阈值时为1, 小于阈值时为0. 当阈值小于0时, 默认不进行二值化处理.
 相关配置项示例:
 
 ```

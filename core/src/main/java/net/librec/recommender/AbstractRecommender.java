@@ -472,6 +472,7 @@ public abstract class AbstractRecommender implements Recommender {
         }
 
         // check if converged
+        //1e-5的意思就是1乘以10的负5次幂.就是0.000001
         boolean converged = Math.abs(delta_loss) < 1e-5;
 
         return converged;

@@ -120,6 +120,7 @@ public class Gaussian {
     }
 
     public static void main(String[] args) {
+   
 
         // This prints out the values of the probability density function for N(2.0.0.6)
         // A graph of this is here: http://www.cs.bu.edu/fac/snyder/cs237/Lecture%20Materials/GaussianExampleJava.png

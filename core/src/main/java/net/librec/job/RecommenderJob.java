@@ -137,7 +137,7 @@ public class RecommenderJob {
      */
     @SuppressWarnings("unchecked")
     private void executeRecommenderJob() throws ClassNotFoundException, LibrecException, IOException {
-        generateDataModel();
+        generateDataModel();//生成DataModel
         RecommenderContext context = new RecommenderContext(conf, dataModel);
         generateSimilarity(context);
         Recommender recommender = (Recommender) ReflectionUtil.newInstance((Class<Recommender>) getRecommenderClass(), conf);

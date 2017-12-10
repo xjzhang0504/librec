@@ -63,7 +63,7 @@ public class UserKNNTestCase extends BaseTestCase {
 	 * @throws LibrecException
 	 * @throws IOException
 	 */
-	// @Ignore
+	 @Ignore
 	@Test
 	public void testRecommenderRating() throws ClassNotFoundException, LibrecException, IOException {
 		Resource resource = new Resource("rec/cf/userknn-test.properties");
