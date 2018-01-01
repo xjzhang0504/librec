@@ -206,8 +206,8 @@ public class ReadXmlWriteTxtUIRT implements ReadXmlAndWriteTxt {
 					bufferedWriter.write(",");
 					bufferedWriter.write(((Map) itemRatingMapList.get(i)).get("ratingTime").toString());
 					bufferedWriter.write(",");
-//					bufferedWriter.write(((Map) itemRatingMapList.get(i)).get("seasonTime").toString());
-//					bufferedWriter.write(",");
+					bufferedWriter.write(((Map) itemRatingMapList.get(i)).get("seasonTime").toString());
+					bufferedWriter.write(",");
 //					bufferedWriter.write(((Map) itemRatingMapList.get(i)).get("itemCommentCount").toString());
 //					bufferedWriter.write(",");
 //					bufferedWriter.write(((Map) itemRatingMapList.get(i)).get("itemGreatCommentCount").toString());

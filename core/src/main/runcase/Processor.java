@@ -12,7 +12,7 @@ public class Processor {
 		//all data
 
 		ReadXmlAndWriteTxt readXmlAndWriteTxtAll = new ReadXmlWriteTxtUIRT();
-		processor.dealOneTypeXml(readXmlAndWriteTxtAll, "/Users/xj/Desktop/shanDong/allinfor/imported", "/Users/xj/Desktop/shanDong/allinfor/uirt.txt");
+		processor.dealOneTypeXml(readXmlAndWriteTxtAll, "/Users/xj/Desktop/shanDong/allinfor/imported", "/Users/xj/Desktop/shanDong/allinfor/uirtSe12LoAll.txt");
 
 		//hebei
 //	    ReadXmlAndWriteTxt readXmlAndWriteTxt = new ReadXmlWriteTxtUIRT();
