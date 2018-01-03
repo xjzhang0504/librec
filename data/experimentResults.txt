@@ -1,0 +1,165 @@
+项目需要时间：
+4:40开始
+5:15开始迭代
+5:20结束
+
+k=100
+17/12/22 17:20:24 INFO RecommenderJob: Evaluator value:RMSE is 0.7325004116139475
+17/12/22 17:20:24 INFO RecommenderJob: Evaluator value:MAE is 0.5488972902549324
+17/12/22 17:20:24 INFO RecommenderJob: Evaluator value:MSE is 0.5365568530146025
+17/12/22 17:20:24 INFO RecommenderJob: Evaluator value:MPE is 0.9858120927163243
+
+
+7:00开始
+7:41结束
+k=50
+17/12/22 19:41:00 INFO RecommenderJob: Evaluator value:MSE is 0.5392863268995568
+17/12/22 19:41:00 INFO RecommenderJob: Evaluator value:RMSE is 0.7343611692481818
+17/12/22 19:41:00 INFO RecommenderJob: Evaluator value:MAE is 0.5488438332419562
+17/12/22 19:41:00 INFO RecommenderJob: Evaluator value:MPE is 0.9859723524854218
+
+k=150
+17/12/22 21:50:15 INFO RecommenderJob: Evaluator value:RMSE is 0.7391353173262718
+17/12/22 21:50:15 INFO RecommenderJob: Evaluator value:MAE is 0.5516871218578034
+17/12/22 21:50:15 INFO RecommenderJob: Evaluator value:MSE is 0.5463210173190085
+17/12/22 21:50:15 INFO RecommenderJob: Evaluator value:MPE is 0.9864005219589773
+
+k=150改进数据之后
+17/12/25 14:42:38 INFO RecommenderJob: Evaluator value:RMSE is 0.7362330200592205
+17/12/25 14:42:38 INFO RecommenderJob: Evaluator value:MAE is 0.5501747181683738
+17/12/25 14:42:38 INFO RecommenderJob: Evaluator value:MSE is 0.5420390598255207
+17/12/25 14:42:38 INFO RecommenderJob: Evaluator value:MPE is 0.9858086616099829
+
+
+
+k=150
+全部改进之后
+17/12/27 17:20:05 INFO RecommenderJob: Evaluator value:RMSE is 0.739773153007254
+
+17/12/27 17:20:05 INFO RecommenderJob: Evaluator value:MPE is 0.9858761667957445
+
+17/12/27 17:20:05 INFO RecommenderJob: Evaluator value:MSE is 0.5472643179102941
+
+17/12/27 17:20:05 INFO RecommenderJob: Evaluator value:MAE is 0.5519953859611074
+
+
+uirtSe12LoAll
+k=150
+17/12/27 18:14:10 INFO RecommenderJob: Evaluator value:MSE is 0.5416538682420922
+17/12/27 18:14:10 INFO RecommenderJob: Evaluator value:MPE is 0.9864102198406716
+17/12/27 18:14:10 INFO RecommenderJob: Evaluator value:MAE is 0.548348100308463
+17/12/27 18:14:10 INFO RecommenderJob: Evaluator value:RMSE is 0.7359713773252953
+
+
+
+
+
+k=10
+18/01/02 22:03:14 INFO RecommenderJob: Evaluator value:MPE is 0.9852446654574357
+18/01/02 22:03:14 INFO RecommenderJob: Evaluator value:MAE is 0.5499281478509735
+18/01/02 22:03:14 INFO RecommenderJob: Evaluator value:RMSE is 0.7363142563014562
+18/01/02 22:03:14 INFO RecommenderJob: Evaluator value:MSE is 0.5421586840327666
+
+
+k=20
+18/01/02 20:20:28 INFO RecommenderJob: Evaluator value:MPE is 0.9860598773106161
+18/01/02 20:20:28 INFO RecommenderJob: Evaluator value:MAE is 0.547360464302868
+18/01/02 20:20:28 INFO RecommenderJob: Evaluator value:RMSE is 0.7330840775504927
+18/01/02 20:20:28 INFO RecommenderJob: Evaluator value:MSE is 0.5374122647580567
+
+
+k=30
+18/01/02 12:39:19 INFO RecommenderJob: Evaluator value:MPE is 0.9867729181103004
+18/01/02 12:39:19 INFO RecommenderJob: Evaluator value:MAE is 0.5487151325826023
+18/01/02 12:39:19 INFO RecommenderJob: Evaluator value:RMSE is 0.7340480839921996
+18/01/02 12:39:19 INFO RecommenderJob: Evaluator value:MSE is 0.5388265896126193
+
+
+
+k=40
+18/01/02 12:33:34 INFO RecommenderJob: Evaluator value:MPE is 0.9865691109933559
+18/01/02 12:33:34 INFO RecommenderJob: Evaluator value:MAE is 0.5489879813340383
+18/01/02 12:33:34 INFO RecommenderJob: Evaluator value:RMSE is 0.7347974725519197
+18/01/02 12:33:34 INFO RecommenderJob: Evaluator value:MSE is 0.5399273256686892
+
+
+k=50
+18/01/01 22:45:37 INFO RecommenderJob: Evaluator value:MPE is 0.9864875881465781
+18/01/01 22:45:37 INFO RecommenderJob: Evaluator value:MAE is 0.5488823009454975
+18/01/01 22:45:37 INFO RecommenderJob: Evaluator value:RMSE is 0.7344559556739477
+18/01/01 22:45:37 INFO RecommenderJob: Evaluator value:MSE is 0.5394255508249319
+
+k=60
+18/01/02 10:50:37 INFO RecommenderJob: Evaluator value:MPE is 0.9867321566869115
+18/01/02 10:50:37 INFO RecommenderJob: Evaluator value:MAE is 0.5492991513150236
+18/01/02 10:50:37 INFO RecommenderJob: Evaluator value:RMSE is 0.7352402809709243
+18/01/02 10:50:37 INFO RecommenderJob: Evaluator value:MSE is 0.5405782707622038
+
+
+k=80
+18/01/02 10:40:52 INFO RecommenderJob: Evaluator value:MPE is 0.9866710145518282
+18/01/02 10:40:52 INFO RecommenderJob: Evaluator value:MAE is 0.5493230742501014
+18/01/02 10:40:52 INFO RecommenderJob: Evaluator value:RMSE is 0.7355057082683656
+18/01/02 10:40:52 INFO RecommenderJob: Evaluator value:MSE is 0.5409686468953501
+
+
+
+k=100
+18/01/01 23:53:09 INFO RecommenderJob: Evaluator value:MPE is 0.9861411160477724
+18/01/01 23:53:09 INFO RecommenderJob: Evaluator value:MAE is 0.5500760140119691
+18/01/01 23:53:09 INFO RecommenderJob: Evaluator value:RMSE is 0.7368608232735901
+18/01/01 23:53:09 INFO RecommenderJob: Evaluator value:MSE is 0.542963872875433
+
+
+k=100-change1注释掉了旅游区部分
+18/01/02 20:37:05 INFO RecommenderJob: Evaluator value:MPE is 0.986669384427232
+18/01/02 20:37:05 INFO RecommenderJob: Evaluator value:MAE is 0.5482286179644101
+18/01/02 20:37:05 INFO RecommenderJob: Evaluator value:RMSE is 0.7355588428113213
+18/01/02 20:37:05 INFO RecommenderJob: Evaluator value:MSE is 0.5410468112379301
+k=100-change2同时注释掉了旅游区和村
+18/01/03 10:08:17 INFO RecommenderJob: Evaluator value:MPE is 0.9856472986748216
+18/01/03 10:08:17 INFO RecommenderJob: Evaluator value:MAE is 0.5484294800861865
+18/01/03 10:08:17 INFO RecommenderJob: Evaluator value:RMSE is 0.7365794342170272
+18/01/03 10:08:17 INFO RecommenderJob: Evaluator value:MSE is 0.542549262911476
+k=100-changes3同时注释掉了旅游区、村、乡镇
+
+
+k=120
+18/01/02 10:46:37 INFO RecommenderJob: Evaluator value:MPE is 0.9864264460114948
+18/01/02 10:46:37 INFO RecommenderJob: Evaluator value:MAE is 0.5507601106104655
+18/01/02 10:46:37 INFO RecommenderJob: Evaluator value:RMSE is 0.7378216884696321
+18/01/02 10:46:37 INFO RecommenderJob: Evaluator value:MSE is 0.5443808439761789
+
+
+k=150
+18/01/01 23:53:38 INFO RecommenderJob: Evaluator value:MPE is 0.9858761667957445
+18/01/01 23:53:38 INFO RecommenderJob: Evaluator value:MAE is 0.5519953859611074
+18/01/01 23:53:38 INFO RecommenderJob: Evaluator value:RMSE is 0.739773153007254
+18/01/01 23:53:38 INFO RecommenderJob: Evaluator value:MSE is 0.5472643179102941
+
+k=200
+18/01/01 23:54:26 INFO RecommenderJob: Evaluator value:MPE is 0.9864672074348836
+18/01/01 23:54:26 INFO RecommenderJob: Evaluator value:MAE is 0.553612227806108
+18/01/01 23:54:26 INFO RecommenderJob: Evaluator value:RMSE is 0.7420150301558794
+18/01/01 23:54:26 INFO RecommenderJob: Evaluator value:MSE is 0.5505863049772306
+                                             
+
+k=250
+18/01/01 23:56:17 INFO RecommenderJob: Evaluator value:MPE is 0.9874454815962174
+18/01/01 23:56:17 INFO RecommenderJob: Evaluator value:MAE is 0.5576488154488505
+18/01/01 23:56:17 INFO RecommenderJob: Evaluator value:RMSE is 0.7469937362564025
+18/01/01 23:56:17 INFO RecommenderJob: Evaluator value:MSE is 0.5579996420062998
+
+
+
+uirtAll
+18/01/02 17:17:32 INFO RecommenderJob: Evaluator value:MPE is 0.9871055794341121
+18/01/02 17:17:32 INFO RecommenderJob: Evaluator value:MAE is 0.5627437481404048
+18/01/02 17:17:32 INFO RecommenderJob: Evaluator value:RMSE is 0.7517287833666975
+18/01/02 17:17:32 INFO RecommenderJob: Evaluator value:MSE is 0.5650961637419752
+uirtSe12All
+18/01/02 17:22:16 INFO RecommenderJob: Evaluator value:MPE is 0.9866981727811616
+18/01/02 17:22:16 INFO RecommenderJob: Evaluator value:MAE is 0.5556676766284818
+18/01/02 17:22:16 INFO RecommenderJob: Evaluator value:RMSE is 0.7433529494967073
+18/01/02 17:22:16 INFO RecommenderJob: Evaluator value:MSE is 0.5525736075254543
+
